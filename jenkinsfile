@@ -11,7 +11,7 @@ pipeline{
     stages {
         stage('build') {
             steps {
-                python3 hello.py
+                ls -ltrah
             }
         }
         stage('test') {
