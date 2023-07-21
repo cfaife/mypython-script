@@ -1,1 +1,1 @@
-print("ola devs and SPEs")
+print("ola devs an d SPEs")
